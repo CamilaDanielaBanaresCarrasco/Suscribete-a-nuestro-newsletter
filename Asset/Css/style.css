@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to left, rgb(227, 236, 241), rgb(207, 191, 236));
+}
+
+.input-alta {
+  height: 50px;
+}
